@@ -1,5 +1,5 @@
 # WorkShowcase: Stylized VFX
-This is a "Slash" VFX im working on for a client.   
+This is a "Slash" VFX im working on for a client. A "Slash" is defined by the momentum of a human attacking with a weapon (f.e sword). A "Slash" VFX determines the "aftermath" of that momentum. 
 uses: Unity Shader Graph and Unity VFX Graph   
 ![](https://i.gyazo.com/e8d2d9ba3ff13dadd19424decc837a4f.jpg)  
 ShaderGraph: 
